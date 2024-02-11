@@ -7,7 +7,7 @@ const Data=[
     link:"https://www.hotstar.com/in/tv/game-of-thrones/8184?utm_source=gwa"
 },
 {
-    sname:"Stranger Things",
+    sname:"Stranger Thing",
     imgsrc:"https://occ-0-58-33.1.nflxso.net/dnm/api/v6/6gmvu2hxdfnQ55LZZjyzYR4kzGk/AAAABV5lteI3eHet1nPBQKC_uEChESjqQfYpRwMWLR0wULt52odnxQtG69JNFDj9N4maZWJWDFZyi2sc1YzZ8mKE4Ajmt7Btva1CnWagGbYXVMp3t4OETM4LwiD70dHu-qWUbBAesQ.jpg?r=c68" ,
     title:"Netflix Series",
     link:"https://www.netflix.com/in/title/80057281"
