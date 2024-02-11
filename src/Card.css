@@ -1,0 +1,71 @@
+.card {
+    width: 18rem;
+    height: 22rem;
+    margin: 50px;
+}
+.card:hover{
+    box-shadow: 10px 10px 5px grey ;
+}
+
+.card-img-top {
+    height: 215px;
+}
+
+.btn{
+    margin: 10px;
+} 
+
+.btn a{
+    text-decoration: none ;
+    color:green;
+}
+.btn a:hover{
+    color: white;
+}
+
+.card-body{
+    height: 145px;
+}
+
+@media (max-width:500px) {
+    .card {
+        width: 15rem;
+        height: 18rem;
+        margin: 50px;
+    }
+    .card-title{
+        font-size: 17px;
+    }
+    .card-text{
+        font-size: 13px;
+    }
+    .card-img-top{
+        height: 150px;
+    }
+    .btn{
+        height: 2rem;
+        width: 4.3rem;
+        font-size: 11px;
+    }
+}
+@media (max-width:340px) {
+    .card {
+        width: 13rem;
+        height: 15rem;
+        margin:30px;
+    }
+    .card-title{
+        font-size: 13px;
+    }
+    .card-text{
+        font-size: 10px;
+    }
+    .card-img-top{
+        height: 130px;
+    }
+    .btn{
+        height: 1.5rem;
+        width: 3.5rem;
+        font-size: 8.5px;
+    }
+}
